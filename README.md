@@ -1,4 +1,5 @@
 # blank-grabber-
 blank grabber 2023 v2
-https://raw.githubusercontent.com/Blank-c/Blank-Grabber/main/.github/workflows/image.png
+![image](https://github.com/maze147/blank-grabber-/assets/147380570/96369838-04f8-424c-ba6c-3e80504de148)
+
 
